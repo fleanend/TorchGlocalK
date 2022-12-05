@@ -7,10 +7,13 @@ You may find the [original code in TensorFlow here](https://github.com/usydnlp/G
 ![GLocal_K_overview](https://user-images.githubusercontent.com/41948621/131093771-39d86126-6be6-4fc8-bcda-3eab8fd2c181.png)
 
 ## 1. Introduction
-The notebook in this repo provides the porting of the published experiment translated into Torch and with a more Deep Learning based approach. An easy sci-kit interface is WIP
+The notebooks in this repo provides the porting of the published experiment translated into Torch and with a more Deep Learning style inspired approach.
+
+Original_Glocal_K.ipynb is the actual implementation of the original code
+Glocal_K.ipynb is a variation which I found to perform better on Torch
 
 ## 2. Setup
-Open the notebook in Google Colab
+Open the chosen notebook in Google Colab
 
 ## 3. Requirements
 * numpy
